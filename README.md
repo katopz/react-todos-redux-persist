@@ -1,4 +1,6 @@
-# Redux Todos Example
+
+# Redux Todos Example with Redux Persist
+> [Redux Todos Example](https://github.com/reactjs/redux/tree/master/examples/todos) + [Redux Persist](https://github.com/rt2zz/redux-persist)
 
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app).
 
